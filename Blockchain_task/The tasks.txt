@@ -1,0 +1,4 @@
+The tasks:
+1. Please install Ganache and create a personal blockchain in your computer.
+2.Use myetherwallet and link it to Ganache  network.
+3. Create several transactions with deployed smart contracts.
