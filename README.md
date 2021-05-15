@@ -1,3 +1,3 @@
 # session4-blockchain-
 This repo have 2 tasks of blockchain training:
-Backend and 
+Backend and how to make a contract using ganache
